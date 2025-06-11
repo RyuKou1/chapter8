@@ -1,4 +1,6 @@
- public class Main{
+package chapter9;
+
+public class Main{
     public static void main(String[] args) {
         Hero h1 = new Hero("ミナト");
         System.out.println(h1.name);
